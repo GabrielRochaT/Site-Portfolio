@@ -111,7 +111,7 @@ section{
     min-height: 100vh;
     height: 100%;
     width: 100%;
-    background: url(https://github.com/judygab/web-dev-projects/blob/main/personal-portfolio/src/assets/img/banner-bg.png?raw=true);
+    background: url(https://raw.githubusercontent.com/judygab/web-dev-projects/main/personal-portfolio/src/assets/img/banner-bg.png);
     background-size: cover;
     background-position: center;
     position: relative;
